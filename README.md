@@ -1,3 +1,3 @@
 # ADM-HW5-
 
-### Petar Ulev, Omar Imanov, Aybüke Hamide Ak
+### Petar Ulev, Aybüke Hamide Ak, Omar Imanov
